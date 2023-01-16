@@ -9,7 +9,7 @@ Pronto.AI assessment
 3. pip install gitpython
 4. Command to run python script:
     - python script.py "git-directory-path"
-    - example: python script.py "C:\Users\Akash Selvakumar\Desktop\ProtonAI\demo-project"
+    - example: python script.py "C:\Users\Akash Selvakumar\Desktop\ProntoAI\demo-project"
 
 output appears on command line
 
