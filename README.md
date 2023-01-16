@@ -8,7 +8,7 @@ Pronto.AI assessment
 2. cd into folder on command line
 3. pip install 
 4. Command to run python script:
-    - python script.py <git-directory-name>
+    - python script.py "git-directory-name"
     - example: python script.py demo-project
 
 
