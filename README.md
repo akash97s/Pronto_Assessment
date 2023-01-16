@@ -5,11 +5,13 @@ Pronto.AI assessment
 
 
 1. Clone repo
-2. cd into folder on command line
-3. pip install 
+2. cd into project folder on command line
+3. pip install gitpython
 4. Command to run python script:
-    - python script.py "git-directory-name"
-    - example: python script.py demo-project
+    - python script.py "git-directory-path"
+    - example: python script.py "C:\Users\Akash Selvakumar\Desktop\ProtonAI\demo-project"
+
+output appears on command line
 
 
 
