@@ -12,6 +12,4 @@ Pronto.AI assessment
     - example: python script.py "C:\Users\Akash Selvakumar\Desktop\ProntoAI\demo-project"
 
 output appears on command line
-
-
-
+![image](https://user-images.githubusercontent.com/29802515/212583367-4b3592a9-5e4b-409b-86f1-d3b5396b8e91.png)
